@@ -1,7 +1,7 @@
 - [ ] [Operating System](https://pdos.csail.mit.edu/6.828/2018/schedule.html)
 - [ ] [Text Editor](https://viewsourcecode.org/snaptoken/kilo/)
 - [ ] [Lisp](http://www.buildyourownlisp.com/)
-- [ ] [JSON Library](https://github.com/miloyip/json-tutorial)
+- [ ] [JSON Library](https://github.com/miloyip/json-tutorial)(Chinese)
 - [ ] [Database](https://cstack.github.io/db_tutorial/)
 - [ ] [Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
 - [ ] [Network Programming](http://beej.us/guide/bgnet/html/multi/index.html)
