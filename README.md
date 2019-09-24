@@ -1,2 +1,1 @@
-# what-you-can-write-in-C
-Reinvent wheels is the best way to learn.
+[Operating System](https://pdos.csail.mit.edu/6.828/2018/schedule.html)
