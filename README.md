@@ -1,4 +1,3 @@
-- [ ] [Operating System](https://pdos.csail.mit.edu/6.828/2018/schedule.html)
 - [ ] [Text Editor](https://viewsourcecode.org/snaptoken/kilo/)
 - [ ] [Lisp](http://www.buildyourownlisp.com/)
 - [ ] [JSON Library](https://github.com/miloyip/json-tutorial)(Chinese)
@@ -19,3 +18,8 @@
 # Production Level Project Source Code
 - [ ] [CPython](http://pgbovine.net/cpython-internals.htm)
 - [ ] [Ruby Under a Microscope](http://patshaughnessy.net/ruby-under-a-microscope)
+---
+# Course
+- [ ] [Operating System](https://pdos.csail.mit.edu/6.828/2018/schedule.html)
+- [ ] [Computer Architecture](https://cs61c.org)
+- [ ] [Operating Systems and System Programming](https://cs162.eecs.berkeley.edu)
