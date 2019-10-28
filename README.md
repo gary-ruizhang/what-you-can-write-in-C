@@ -17,6 +17,7 @@
 ---
 # Production Level Project Source Code
 - [ ] [CPython](http://pgbovine.net/cpython-internals.htm)
+- [ ] [CPython](https://realpython.com/cpython-source-code-guide/)
 - [ ] [Ruby Under a Microscope](http://patshaughnessy.net/ruby-under-a-microscope)
 ---
 # Course
