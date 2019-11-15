@@ -24,3 +24,6 @@
 - [ ] [Operating System](https://pdos.csail.mit.edu/6.828/2018/schedule.html)
 - [ ] [Computer Architecture](https://cs61c.org)
 - [ ] [Operating Systems and System Programming](https://cs162.eecs.berkeley.edu)
+---
+# Book
+- [ ] [The Linux Programming Interface](http://man7.org/tlpi/)
