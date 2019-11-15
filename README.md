@@ -16,14 +16,16 @@
 - [ ] [Regular Expression Matcher](https://swtch.com/~rsc/regexp/regexp1.html)
 ---
 # Production Level Project Source Code
-- [ ] [CPython](http://pgbovine.net/cpython-internals.htm)
-- [ ] [CPython](https://realpython.com/cpython-source-code-guide/)
+- [ ] [CPython video](http://pgbovine.net/cpython-internals.htm)
+- [ ] [CPython guide](https://realpython.com/cpython-source-code-guide/)
 - [ ] [Ruby Under a Microscope](http://patshaughnessy.net/ruby-under-a-microscope)
 ---
 # Course
-- [ ] [Operating System](https://pdos.csail.mit.edu/6.828/2018/schedule.html)
-- [ ] [Computer Architecture](https://cs61c.org)
-- [ ] [Operating Systems and System Programming](https://cs162.eecs.berkeley.edu)
+- [ ] [6.828](https://pdos.csail.mit.edu/6.828/2018/schedule.html)
+- [ ] [cs61c](https://cs61c.org)
+- [ ] [cs162](https://cs162.eecs.berkeley.edu)
 ---
 # Book
 - [ ] [The Linux Programming Interface](http://man7.org/tlpi/)
+- [ ] [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [ ] [Operating Systems: Principles and Practice](https://www.amazon.com/Operating-Systems-Principles-Thomas-Anderson/dp/0985673524)
